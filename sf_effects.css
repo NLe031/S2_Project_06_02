@@ -14,7 +14,9 @@
 */
 
 /* Body Header Styles */
-
+body {
+    filter: drop-shadow()
+}
 
 
 /* Navigation Tabs List Styles */
